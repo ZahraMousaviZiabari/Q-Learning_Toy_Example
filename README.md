@@ -50,13 +50,10 @@ The agent learns to navigate from the start position to the finish line using **
 
 ## Features in Code
 
-Grid-world simulation with visual console output
-
-Q-learning implementation with customizable parameters (`α`, `γ`, `ε`, episodes)
-
-Step-by-step training with Q-table inspection
-
-Testing policies (greedy vs. ε-greedy)
+* Grid-world simulation with visual console output
+* Q-learning implementation with customizable parameters (`α`, `γ`, `ε`, episodes)
+* Step-by-step training with Q-table inspection
+* Testing policies (greedy vs. ε-greedy)
 
 Variations of the environment:
 
