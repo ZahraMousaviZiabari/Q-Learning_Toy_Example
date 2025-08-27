@@ -35,7 +35,7 @@
 
 ---
 
-## 🏎️ The Car Racing Environment
+## The Car Racing Environment
 
 * **Agent**: 🚗 (Car)
 * **Goal**: 🏁 (Finish line)
@@ -48,7 +48,7 @@ The agent learns to navigate from the start position to the finish line using **
 
 ---
 
-## ⚙️ Features in Code
+## Features in Code
 
 ✅ Grid-world simulation with visual console output
 ✅ Q-learning implementation with customizable parameters (`α`, `γ`, `ε`, episodes)
@@ -62,7 +62,7 @@ The agent learns to navigate from the start position to the finish line using **
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Requirements
 
@@ -83,7 +83,7 @@ You will see the grid environment printed in the console as the agent trains and
 
 ---
 
-## 🧪 Example Outputs
+## Example Outputs
 
 * Learned Q-table (values per state)
 * Learned policy (best actions per state)
